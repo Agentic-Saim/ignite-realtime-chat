@@ -1,4 +1,4 @@
-# Ignite Realtime Chat
+﻿# Ignite Realtime Chat
 
 Ignite is a feature-rich, high-performance real-time messaging application built with Next.js and Firebase. Designed for instant communication, it leverages Firebase's real-time capabilities to provide a seamless chat experience across a global user base.
 
@@ -22,7 +22,7 @@ Ignite is a feature-rich, high-performance real-time messaging application built
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/m-shamim09/ignite-realtime-chat
+   git clone https://github.com/agentic-saim09/ignite-realtime-chat
    cd ignite-realtime-chat
    ```
 
@@ -60,8 +60,8 @@ Ignite is a feature-rich, high-performance real-time messaging application built
 
 ## Author & Contact
 
-- **Author:** Muhammad Shamim
-- **GitHub:** [@m-shamim09](https://github.com/m-shamim09)
-- **Email:** [mshamim.work@gmail.com](mailto:mshamim.work@gmail.com)
-- **Profile:** https://github.com/m-shamim09
+- **Author:** Agentic Saim
+- **GitHub:** [@agentic-saim09](https://github.com/agentic-saim09)
+- **Email:** [agenticsaim.work@gmail.com](mailto:agenticsaim.work@gmail.com)
+- **Profile:** https://github.com/agentic-saim09
 
